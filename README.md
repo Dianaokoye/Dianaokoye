@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a data scientist and Currently working at a licensed c
 - [📊 Predicting Hospital Readmission for Diabetic Patients](https://github.com/Dianaokoye/Predicting-Hospital-Readmission-Risk-for-Diabetic-Patients)  
   Machine learning project to predict <30-day readmission for diabetic patients using clinical data
 
-- [📈 AAL Sales Forecasting Dashboard (Capstone)  
+- [📈 AAL Sales Forecasting Dashboard (Capstone) (https://github.com/Dianaokoye/AAL-Sales-Performance-Analysis) 
   Excel-based time series + Power BI dashboard to visualize and forecast retail sales
 
 ---
